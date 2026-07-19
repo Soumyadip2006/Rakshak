@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "53220000000013050",
+      "name": "Rakshak-KSP",
+      "domain": {
+        "id": "50044001674",
+        "name": "rakshak-ksp-60078265767.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60078265767",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
